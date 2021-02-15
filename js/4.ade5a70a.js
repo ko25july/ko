@@ -1,1 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[4],{"8b24":function(n,t,e){"use strict";e.r(t);var a=function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("div",[n._v(n._s((n.$global.data.settings||{}).title||{}))])},l=[],s={name:"PageIndex",data:function(){return{}}},u=s,i=e("2877"),r=Object(i["a"])(u,a,l,!1,null,null,null);t["default"]=r.exports}}]);
